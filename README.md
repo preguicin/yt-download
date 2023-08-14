@@ -7,4 +7,4 @@ Now on the Youtube API side you will need an youtube API key so this will be abl
 You can find many sources on how to setup them and download them.
 
 ## How this code works
-It is simply get the playlist link and parse through all videos playlist and run a command so it downloads them
+It is simply get the playlist link and parse through all videos playlist and run a command so it downloads them through yt-dlp an converts to an audio file with ffmpeg
